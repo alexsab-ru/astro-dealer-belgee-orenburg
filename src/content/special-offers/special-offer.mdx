@@ -15,9 +15,9 @@ export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 
-export const dateFrom = '01.07.2024';
+export const dateFrom = `01.${MONTH}.${YEAR}`;
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
-export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE}`;
 export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 <picture>
@@ -57,4 +57,4 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 > - Место проведения: шоу-рум ДЦ Belgee Партнер-Авто Оренбург,  г. Оренбург, Загородное шоссе, 13/2.
 
 > * Программа действительна исключительно в Belgee Партнер-Авто Оренбург ( ООО "ПАРТНЕР", ИНН 5609202210) и действует для физических лиц, купивших автомобиль BELGEE в Belgee Партнер-Авто Оренбург в период проведения программы, не распространяется на третьих лиц при смене владельца автомобиля. Сертификат действует в течении срока действия и прекращает свое действие при смене владельца или нарушения регламента проведения технического обслуживания автомобиля.
-Адрес: г. Оренбург, Загородное шоссе, 13/2. Тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
+Адрес: г. Оренбург, Загородное шоссе, 13/2. Тел.: +7 (3532) 99-01-01
