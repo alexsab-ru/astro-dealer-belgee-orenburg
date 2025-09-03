@@ -19,7 +19,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z7SB909260</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -84,7 +84,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1SB922649</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -149,7 +149,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1SB922635</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -214,7 +214,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z1SB923462</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -281,7 +281,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z0SB912436</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -348,7 +348,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z0SB922870</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -415,7 +415,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z0SB922867</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -443,7 +443,22 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/6408ad96e4948a5bae16a3d536b730f7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/9202463833b67503e4f4293253fd53d0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/662998d922b593e90db5d23e03cd0396.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/c5e155c365eeec21af18303db279dade.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/2a6fe459e802977abc2484151c854c50.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/098d0264f3924fb4f8686ed514964f56.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/1b5ea3df2879a5604867f6288f0e37c8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/f9f68cf47c7e65bf248549571b85a728.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/6ff2c04dcd94c1c91e91a88c75ada464.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/39faf74a942041ab1291af44b84e1c4d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/8439926d69963e33c087f74e63aed453.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/6fcab5b3d7bec6b621c8efd0bc567362.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/8ccbb2a26543a9cd6e9c051cfc59f443.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922867/5afd2e28820546c0b13e152564a3fa12.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -467,7 +482,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z7SB922865</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -495,7 +510,22 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/a3c23e36491587ea20c2ee5048746154.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/0d5d65a97d9fe45b40ea08a2471e2aad.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/aee07a20e339fe4d76ffdd69c61493b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/39fd16d9fce63a6e7ba3f2ec8524b10f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/cacf9891396cac41558ef8156569b77e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/ca573660d845824ec0711e83360392fa.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/43a66697f70a2c5919bb6d29f8b20988.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/69ab8ed2db947e29731a58fe1105e3c6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/97d9356a826eeff568195ea27c1edc74.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/eebaddbd443d54154cefc9fcc4226a9d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/1e39368a16d86fbbf14426801e9608b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/0fac701ea67e96be017b2820e4f0067a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/452c14083e9a3d22ef6e7e1100d5d51c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB922865/5e75eebe81e422a9d7935499f84f62b1.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -519,7 +549,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>140000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z0SB922853</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
@@ -547,7 +577,22 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/26a6d19ab82c2b5dc041507153de4bc9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/a06b0edd912bfab11fba103a244b621e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/ce0651e06034fac753061c214200462b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/0b3ffaaed11b25bb7d3f4aae0ace62e8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/4f13aa1d0f84ef2a9576a8cd60089701.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/6669b7c9193f914d977ad974bf607eda.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/faeae7e115667db612be118edd9f8a62.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/e879f7d3cbf3fb643b6eb2892bbfa7cf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/45e3226fee99e3fe5c7e5b6d467a6383.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/68cbe11cf278b9fda1ca6a2a466b3912.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/5fea6be5c1fc6fa57d5e2111a0418135.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/63032eca9cc17b5a128dbf55167b5d9b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/e458ace9171fd5a49815889557d6202c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB922853/1e0b63b3e15ba81e41cc416d7104573e.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -630,7 +675,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2025</year>
 			<price>2590190</price>
 			<credit_discount>0</credit_discount>
@@ -695,7 +740,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2025</year>
 			<price>2590190</price>
 			<credit_discount>0</credit_discount>
@@ -730,7 +775,15 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/811f39627793adbbcff03472dfa2b2a8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/cea2effee5d888d7b54e1c38390373f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/b71dc310f9dbbe78eca41bdf806927df.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/3b27f8099aa27d2f00b413926e94c022.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/08f4591a4fbb82197c7007d43be2353f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/9d9d526b57f52ba104ef4510135a642d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB915919/702bd3b7094fbf7bfbe2419248f361d5.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -782,7 +835,15 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/0b6c5dd7c86a52786c2af00d29014d27.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/5a14a59f114ee422e66de93d7042ec54.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/c2947b998e9ec2b0ea43cf8c8d3e07ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/52559925bd2a747404389ea687172895.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/bd564e722b97bfdc57909da2870cbdbd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/94a0afa3b19970b989acd93f82267a17.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB916242/30adce6aca0676bd000b53ae82c4e2c5.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -928,7 +989,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>570000</max_discount>
+			<max_discount>630000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D8SB315973</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
@@ -956,7 +1017,24 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/de473b054b3e3145361e385f82a99daf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/8dfc2ee806a3fc13e78369de822843da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/901d09cc77c249261b542ee2883a3af5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/0e5e38cb91c355e214a4e8270d156cd0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/d11fd0cd6f95af6c76a2041e772d99ce.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/0f1762475b4e8d592d926229f88c635d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/f5d62f1dacea612c41bbb3127cc2ece2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/11222f763c8de238225fda095b6af2c8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/2648324a801026750f95dbe8a6d38773.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/2e3e837628673aebbc60ca295614247e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/6db19d2bc857434b618a9dbe27edcadc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/f992fce36042f8c5a943ed449443fc29.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/5361b085cfaf78112b8928c3b60c88b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/730e4cf34a973bfc56beb40a30f0f902.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/3fbb969adc7dd1ef485593c67cdefec8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D8SB315973/15086daf2f78659f7e7b3d0528bd59f0.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -980,7 +1058,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>570000</max_discount>
+			<max_discount>630000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXSB315974</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
@@ -1048,7 +1126,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>570000</max_discount>
+			<max_discount>630000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D3SB309191</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
@@ -1076,7 +1154,18 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/76dfc5216561b6e84a63aa99cbfd47e2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/85d349dea787bda1e17dd86dd9470389.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/86bc52e25e861211c76b5c7389e3c50e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/e7f8c74bfe47714b9e1794703fead0b4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/eb548c2ba37ac12c20b9cd7e57bcb040.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/02caa187309e4b8f28ebd103c9f564ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/8602f2e9ac4bcd60ea52709f10e4276f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/eaccff98a4aab48e0c220f59b61cca2e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/82ab01b8aa01172dfb718a3cc5ddf169.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB309191/8c5ac8be8406ec8adbb8c2e6da0bcdbf.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1100,7 +1189,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>570000</max_discount>
+			<max_discount>630000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D6SB301506</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
@@ -1162,9 +1251,9 @@
 			<price>3426190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>660000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D4SB316375</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
@@ -1190,7 +1279,25 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/e5259ddd455b80998201e43800cf14c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/7177cd07e0c28f11404cf153fff51f19.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/beb0e96c2d71239fecc7fed5ca970220.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/540ad580c6e59699121679ea6c9b2abe.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/63d722c10a429e85e5b65b407ee3b71b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/b8746d48dc1bcc48eded5caab54bd06f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/68fccc7c46f54646610143aaed301050.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/3ead282d63d8a88f67422722525e9716.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/a34b72c01e52c545429012efa68c2f11.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/8bd6ce33fcdb8829a9285bad08469c03.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/70acbea03e3adb3783da3d26dc05da89.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/1da8eba5e5fff97b57980d1c2c87a86d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/6d660431d070f6e6495954d45d8cebfc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/62e299c1da3d7e7dd3f50e1b516e3a80.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/6d974a5dfc7993149555132e04aa424f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/ddefc4ff4b6444a347c95044bd38367b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4SB316375/d4d5515a9a4afdf7f6aa25197eda761c.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1212,9 +1319,9 @@
 			<price>3426190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>660000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722DXSB304621</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
@@ -1240,7 +1347,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/f5ea1a29ca1818c156a7ab693a17ed9c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/515426d390785ff5fabe99a9e21f92da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/1c76583d28c56ba5b482b403a4363c06.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/800f4e7597eca56ea925986607d2698a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/771aed8eb11975c83ffaac4a5ddcecaa.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/ea2f788691053ace137efb546daff3e7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/991589f283c7fda898e7559cf53e0a66.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/9f2056bea6c5f7a59ad88d25d5e451cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/dc60661a10bc78669036c4ddd4d94af7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/13aa8c214b3e4e47076176e2ab130fad.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/a886100be918cb3af3b4a1e43eb382b1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/e0730ed8ba1d0238e8dfbf0d3ebb9163.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB304621/8ca895b644b2c5a734e480a68f49642f.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1262,9 +1383,9 @@
 			<price>3426190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>660000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D2SB308680</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
@@ -1355,7 +1476,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/cb0d5ce9e7fa35259fc31391afffa00f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/ebd7970d74d1a24f334a0858e9e0c6d7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/731406ce3530f205b59ccb30b9031203.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/17c8639daf47886f9716b4c6cb30cf68.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/90ffb9b155793757b1a16970f7c1496e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/dc5366a92bb73f831ebbb21eed7a12b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/32e5abf7df409dfa48a005b3bca79eae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/14f575b90d63c07f4cb973eefc9d44e8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/85f4f4622222f48897d89e26080ad760.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/0b71640931195eb62e514ab53587a6f6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/985b853c113b7dde2557de7683c9a73c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/a3d19ae2e587b7b2fb3ff1eaa71b8e82.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D3SB310714/866cc7de89e91986a5030d9e4ad54e29.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1459,7 +1594,19 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/a6ff1a192cfefb10b9cb7879e1697cb2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/91636011c1c3fe6ed1e062705f45ffd1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/a1ff481d48f4a4492ae30787956c96af.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/963b6ea7714e61263b48ab211fca5a93.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/f407a55bc04133a2f6cd22004dbb7f30.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/c5649250226b006ffb424a506eaeccd3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/2c55eb955e0945711947b8e8ce46d216.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/ce4541d38f9b6c016cf6747569bcc224.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/7887e861af2cbc1864bcb89b2427dc60.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/78bd2db66684d168c7306df55d14bfec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722DXSB315263/7fa9c0c7e229422d90530c1c9a080293.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
