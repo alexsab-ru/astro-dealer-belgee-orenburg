@@ -1,67 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>634fd6c97978d88c60e512cf0e193d6d</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2025</year>
-			<price>2590190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>430000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z7SB912255</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, в комплектации Style
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/e962a88baa0e251900ef25c3bc230f9e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/fda3dc9ced2d7d20b15c8c550f832333.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/588158053ea3a58d2ea8a846bdee5bd1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/413d19f1b77d1cf7ba274228896041c9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/6ad202079bf0a5d3a020de4f4afcd144.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/2b50a7567db82a1fb0aab443d1e86732.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/538f63f5a989aa776381332dcf03ab7c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7SB912255/cfa4966a1fd1b603f807719b52a2b0f8.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
-		<car>
 			<unique_id>72b6a67a437f89f88be4920cd292ba09</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
