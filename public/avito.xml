@@ -105,6 +105,58 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2025/</url></car>
 		<car>
+			<unique_id>1b0b52938a2aac8f1d2ddd7e237f266a</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2025</year>
+			<price>2590190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>140000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>430000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622ZXSB906577</vin>
+			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
+
+В наличии новый Belgee X50, в комплектации Style
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
+		<car>
 			<unique_id>c55fc4a3eff18c88fb44866c7beaecb2</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
@@ -178,58 +230,6 @@
 			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3SB906582</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50, в комплектации Style
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
-		<car>
-			<unique_id>1b0b52938a2aac8f1d2ddd7e237f266a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2025</year>
-			<price>2590190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>430000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622ZXSB906577</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X50, в комплектации Style
@@ -457,76 +457,6 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-белый-2025/</url></car>
 		<car>
-			<unique_id>f68fe7213c7a3247250da34b2626afd0</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2025</year>
-			<price>3321190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>170000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>630000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5SB309225</vin>
-			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X70, в комплектации Prestige
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/70fe580920062d73a84ed11a9069ad18.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/485346671f8b919a64163bd4ba2afb83.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/b25b62ddb7610589eacdeb23b6b2b902.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/a9014ba7e70c2df85af5d73cbdc95213.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/b26cd0f9952090a26a41df9f66bb6a6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/21657ff63979f1f41bdbb882346a4015.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/336f1efc3d71ec9fcea62271aaeba2cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/3a31a336a7ddb4b59eea4e13f412fa7b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/d2ef98ac292b1a077fc46398e65ecd91.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/f75c0b2a9ed9e28aa91806cd99346c22.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/da7685619ba735696241ab47ba69411d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/9b71a9a6c9ad0ae97f44505dc0230633.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/7af625f95ea1044671c6e2aed48c93bc.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/86dbdda674632cf10b41d900cfdc32ba.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/0b838bb774b1b6f967f07557747971a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/0afd54704edc599db7f9b5031349c4a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/c900ae5fb5818ce89d98159c6b762235.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-черный-2025/</url></car>
-		<car>
 			<unique_id>be3b22fd09f6eb48110b59cb21b32e7c</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
@@ -659,42 +589,44 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-белый-2025/</url></car>
 		<car>
-			<unique_id>342cd368c4f2b7fba60be2aae61e8b86</unique_id>
+			<unique_id>f68fe7213c7a3247250da34b2626afd0</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
+			<complectation_name>Prestige</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серебряный</color>
+			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>8</run>
 			<year>2025</year>
-			<price>3426190</price>
-			<credit_discount>60000</credit_discount>
+			<price>3321190</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>170000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>720000</max_discount>
+			<max_discount>630000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722D0SB319158</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
+			<vin>Y4K8722D5SB309225</vin>
+			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
-В наличии новый Belgee X70, в комплектации Prestige+.
+В наличии новый Belgee X70, в комплектации Prestige
 
-✅ ГАPAHТИЯ 5 ЛET
+✅ PACCPОЧКA от 0,01%
 
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
 
-✅ PАССPOЧКA
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
 
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
 
 Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP АВТО.
 
 Так же доступны автомобили в других комплектациях и цветах.
 
@@ -703,61 +635,29 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/70fe580920062d73a84ed11a9069ad18.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/485346671f8b919a64163bd4ba2afb83.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/b25b62ddb7610589eacdeb23b6b2b902.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/a9014ba7e70c2df85af5d73cbdc95213.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/b26cd0f9952090a26a41df9f66bb6a6f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/21657ff63979f1f41bdbb882346a4015.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/336f1efc3d71ec9fcea62271aaeba2cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/3a31a336a7ddb4b59eea4e13f412fa7b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/d2ef98ac292b1a077fc46398e65ecd91.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/f75c0b2a9ed9e28aa91806cd99346c22.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/da7685619ba735696241ab47ba69411d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/9b71a9a6c9ad0ae97f44505dc0230633.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/7af625f95ea1044671c6e2aed48c93bc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/86dbdda674632cf10b41d900cfdc32ba.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/0b838bb774b1b6f967f07557747971a9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/0afd54704edc599db7f9b5031349c4a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D5SB309225/c900ae5fb5818ce89d98159c6b762235.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебряный-2025/</url></car>
-		<car>
-			<unique_id>90a8656b0c1e59ab409a10f7486fa62e</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2025</year>
-			<price>3426190</price>
-			<credit_discount>60000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>170000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>720000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D8SB319165</vin>
-			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X70, в комплектации Prestige+.
-
-✅ ГАPAHТИЯ 5 ЛET
-
-✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
-
-✅ PАССPOЧКA
-
-✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
-
-Цена указана с учётом максимальной выгоды.
-
-Если новый BelGee , то в BelGee ПАPTHEP АВТО.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебряный-2025/</url></car>
+		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-черный-2025/</url></car>
 		<car>
 			<unique_id>f689b90bb3708cd846cc40949a64dad5</unique_id>
 			<mark_id>BelGee</mark_id>
@@ -822,6 +722,106 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
+		<car>
+			<unique_id>90a8656b0c1e59ab409a10f7486fa62e</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2025</year>
+			<price>3426190</price>
+			<credit_discount>60000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>170000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>720000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D8SB319165</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
+
+В наличии новый Belgee X70, в комплектации Prestige+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый BelGee , то в BelGee ПАPTHEP АВТО.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебряный-2025/</url></car>
+		<car>
+			<unique_id>342cd368c4f2b7fba60be2aae61e8b86</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Prestige+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2025</year>
+			<price>3426190</price>
+			<credit_discount>60000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>170000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>720000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D0SB319158</vin>
+			<description>ПАРТНЕР АВТО - новый официальный дилер BelGee в городе Оренбурге.
+
+В наличии новый Belgee X70, в комплектации Prestige+.
+
+✅ ГАPAHТИЯ 5 ЛET
+
+✅ КPEДИT БЕЗ ПEРВOHAЧАЛЬHOГО BЗНОСА
+
+✅ PАССPOЧКA
+
+✅ BЫГОДНЫЙ ОБМЕH ВАШEГО АВTОМOБИЛЯ HА НОВЫЙ
+
+Цена указана с учётом максимальной выгоды.
+
+Если новый BelGee , то в BelGee ПАPTHEP АВТО.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебряный-2025/</url></car>
 		<car>
 			<unique_id>bac99200adfeb5c9242b6ece09bdaa89</unique_id>
 			<mark_id>BelGee</mark_id>
