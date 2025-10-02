@@ -217,7 +217,14 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4SB906638/0e84113063e6add797b248b78cfba937.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4SB906638/293b8bd437ce817ed2353b4c1c8e7fae.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4SB906638/d04727c4988c338912bf5a88fe382b60.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4SB906638/a14dbe7d96f1e01200d94b6aaae5b3ed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4SB906638/f6c63ea4bc90002183ed2885fd722cc2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4SB906638/ae44d557d45b91d12f3a676ac3a155e8.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -371,7 +378,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2025</year>
 			<price>3121190</price>
 			<credit_discount>0</credit_discount>
