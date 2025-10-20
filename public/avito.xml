@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>c41c37e6e7a0a4a6b216ee9a07b2729b</unique_id>
+			<unique_id>7c4b45ae44e4be1747ce45128173f64a</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -21,7 +21,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>426000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z2SB320114</vin>
+			<vin>Y4K8722Z7SB320111</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый обновленный Belgee X70,  в комплектации Style.
@@ -105,7 +105,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-style-белый-2025/</url></car>
 		<car>
-			<unique_id>7c4b45ae44e4be1747ce45128173f64a</unique_id>
+			<unique_id>c41c37e6e7a0a4a6b216ee9a07b2729b</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -125,7 +125,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>426000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z7SB320111</vin>
+			<vin>Y4K8722Z2SB320114</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый обновленный Belgee X70,  в комплектации Style.
