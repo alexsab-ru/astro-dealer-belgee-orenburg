@@ -75,7 +75,17 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/bfc28797eab627ce6b0becae964df240.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/3e459a64ac772793c6b34ba8853a938b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/92b4f93ae286445d3f114e89bb221814.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/e0be778384164a51f47c902593fc6ca6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/8268803414e3253bd12ccb5343b0cced.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/1ecd8f296b272554baadce0d2ec1ebfe.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/649c9e9286ad7f96af9a42b80f136c4f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/f138eb786864b878c822e6a6d83b63e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z3SB938089/001c3c4315d74dab5e76766f12fc639c.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
