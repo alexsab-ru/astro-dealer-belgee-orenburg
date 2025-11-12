@@ -143,7 +143,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-style-серый-2025/</url></car>
 		<car>
-			<unique_id>58efb47c10cdb891fce3581b47056313</unique_id>
+			<unique_id>a277cef39bd696997a5790ddd8420eda</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -151,10 +151,10 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
-			<metallic>нет</metallic>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>6</run>
 			<year>2025</year>
 			<price>2595990</price>
 			<credit_discount>0</credit_discount>
@@ -163,7 +163,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>80000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z1SB324476</vin>
+			<vin>Y4K8722Z7SB324482</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый обновленный Belgee X70,  в комплектации Style.
@@ -195,7 +195,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-style-серый-2025/</url></car>
 		<car>
-			<unique_id>a277cef39bd696997a5790ddd8420eda</unique_id>
+			<unique_id>58efb47c10cdb891fce3581b47056313</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -203,10 +203,10 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
-			<metallic>да</metallic>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>9</run>
 			<year>2025</year>
 			<price>2595990</price>
 			<credit_discount>0</credit_discount>
@@ -215,7 +215,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>80000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z7SB324482</vin>
+			<vin>Y4K8722Z1SB324476</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый обновленный Belgee X70,  в комплектации Style.
