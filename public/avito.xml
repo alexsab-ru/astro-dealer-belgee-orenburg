@@ -37,7 +37,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-лс-prestige-серый-2025/</url></car>
 		<car>
-			<unique_id>863ee0eb1ea581d912d9788ad1b44ab7</unique_id>
+			<unique_id>a277cef39bd696997a5790ddd8420eda</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -57,7 +57,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>80000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z9SB322667</vin>
+			<vin>Y4K8722Z7SB324482</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый обновленный Belgee X70,  в комплектации Style.
@@ -83,9 +83,7 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9SB322667/b2ac140f0070c18dd59c322614a375b7.jpeg</image>
-			</images>
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -143,7 +141,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-style-серый-2025/</url></car>
 		<car>
-			<unique_id>a277cef39bd696997a5790ddd8420eda</unique_id>
+			<unique_id>863ee0eb1ea581d912d9788ad1b44ab7</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -163,7 +161,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>80000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z7SB324482</vin>
+			<vin>Y4K8722Z9SB322667</vin>
 			<description>ПАРТНЕР - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый обновленный Belgee X70,  в комплектации Style.
@@ -189,7 +187,9 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9SB322667/b2ac140f0070c18dd59c322614a375b7.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
