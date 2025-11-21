@@ -65,7 +65,7 @@
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
-			<metallic>да</metallic>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>12</run>
@@ -101,7 +101,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
-			<metallic>да</metallic>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>6</run>
