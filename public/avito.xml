@@ -1,42 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>1def0ab16b626d16dfdcec074e29940c</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>S50</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2025</year>
-			<price>2269990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>120000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8824Z7SB204885</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/7d6ab4fd5dc4a26a3a1cd4de627fe7fe.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/980cabd6bd26886cba942107adc3aea9.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/385222ac9e7ab04ffdc0f3ee02314eea.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/bffd5169400ef5b0dbf7464e0eed3e96.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/4309c7ed4b866cd66b5d90c0a6bc3e07.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/f780186aaf87b9b6d733b72ab7291b74.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7SB204885/9c21e8c5fc6cbfa68fd1836f1352f6f8.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-лс-prestige-серый-2025/</url></car>
-		<car>
 			<unique_id>863ee0eb1ea581d912d9788ad1b44ab7</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
