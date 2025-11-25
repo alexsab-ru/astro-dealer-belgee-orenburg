@@ -1,62 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>a8f0c30c5f62a29ea4ce594542e7db25</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>S50</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2025</year>
-			<price>1999990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8824Z0SB208308</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-лс-active-серый-2025/</url></car>
-		<car>
-			<unique_id>80a25838163d51c501e55f53c688db08</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>S50</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>2</run>
-			<year>2025</year>
-			<price>2269990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>120000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8824Z8SB206774</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-лс-prestige-белый-2025/</url></car>
-		<car>
 			<unique_id>1def0ab16b626d16dfdcec074e29940c</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>S50</folder_id>
