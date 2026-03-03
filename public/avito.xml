@@ -5,7 +5,7 @@
 			<mark_id>Belgee</mark_id>
 			<folder_id>S50</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
+			<complectation_name>Престиж</complectation_name>
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
@@ -27,13 +27,13 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-лс-prestige-серый-2026/</url></car>
+		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-лс-престиж-серый-2026/</url></car>
 		<car>
 			<unique_id>e883a1d6c9a5a9a68b3ad08cd3106c8e</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
+			<complectation_name>Актив</complectation_name>
 			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -55,13 +55,13 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-active-белый-2026/</url></car>
+		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-актив-белый-2026/</url></car>
 		<car>
 			<unique_id>492e27c5b7782b63c770abd72898e762</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
+			<complectation_name>Стиль</complectation_name>
 			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -107,6 +107,6 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-style-белый-2026/</url></car>
+		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-стиль-белый-2026/</url></car>
 		</cars>
 </data>
