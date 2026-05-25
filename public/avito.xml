@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>0a79c7debc17a4e1825617d96d1b8948</unique_id>
+			<unique_id>2f8fb93c9cc2a12d39250bf7507fe759</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>S50</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
@@ -12,7 +12,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2026</year>
 			<price>2309990</price>
 			<credit_discount>0</credit_discount>
@@ -21,7 +21,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>459990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8824Z3TB205968</vin>
+			<vin>Y4K8824ZXTB206020</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
@@ -85,7 +85,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-s50-15-at-122-hp-prestige-crystal-white-2026/</url></car>
 		<car>
-			<unique_id>2f8fb93c9cc2a12d39250bf7507fe759</unique_id>
+			<unique_id>0a79c7debc17a4e1825617d96d1b8948</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>S50</folder_id>
 			<modification_id>1.5 AT (122 л.с.)</modification_id>
@@ -105,7 +105,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>459990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8824ZXTB206020</vin>
+			<vin>Y4K8824Z3TB205968</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
@@ -376,7 +376,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url></car>
 		<car>
-			<unique_id>d4d17d42bb3e5bb5284da67a2d51d455</unique_id>
+			<unique_id>c7c07fec289dce7a0a5347009600a688</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -387,7 +387,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>6</run>
 			<year>2026</year>
 			<price>2579990</price>
 			<credit_discount>0</credit_discount>
@@ -396,7 +396,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>379990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z0TB307363</vin>
+			<vin>Y4K8722Z1TB307310</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
@@ -452,7 +452,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-facelift-15-at-150-hp-active-silver-2026/</url></car>
 		<car>
-			<unique_id>c7c07fec289dce7a0a5347009600a688</unique_id>
+			<unique_id>d4d17d42bb3e5bb5284da67a2d51d455</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -463,7 +463,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>4</run>
 			<year>2026</year>
 			<price>2579990</price>
 			<credit_discount>0</credit_discount>
@@ -472,7 +472,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>379990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z1TB307310</vin>
+			<vin>Y4K8722Z0TB307363</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
