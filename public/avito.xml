@@ -12,14 +12,14 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>1036</run>
+			<run>1037</run>
 			<year>2026</year>
 			<price>2675990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>425990</max_discount>
+			<max_discount>429990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z3TB913291</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
@@ -57,7 +57,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>425990</max_discount>
+			<max_discount>429990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z6TB921501</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
@@ -130,7 +130,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>425990</max_discount>
+			<max_discount>429990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXTB926815</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
@@ -144,7 +144,41 @@
 ⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ предоставляем услугу «Шинный отель» ⚡⚡</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/67b7072aa97629bd17ec70338bd4424b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/5e1084863b1c62323631f4d9a6cd6052.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/8661791900ed9c0b44bd5f6c55e1b3c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/060d40cba8faa62d2b17cf037775f472.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/4e523e3cbee48a530e21bd472c7642bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/9aabb722e5da73956e80eb71e74ac256.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/12a666fe4ac8a7d599ed20fa06d2ca92.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/607bea12a6b3e3ec3abb1962c96476a5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/25fbf177cbf3973720668086dab253c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/281ef02e7d653c39f2b7cce96bd6e8b1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/8257d977f8fdffcb686a1f085bd10933.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/700840195972f81eb8e542baadc16940.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/7b5f19f89ae594ec8e8222bd23f5e92b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/f2d2b84680f398b267846ee5a85ffef3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/302ff9b26dbf1c21abc0d16800eb49cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/d65f46ee2e9f49baa3244645102d1fb8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/0998329e4560935ddd00320877d7a9f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/34ecf1e04dd6bd497b788a66094c08a4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/b8c94b3af6af103b2eea73a7f5336d82.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/cecd7e127b386bba392ba17ee861a9e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/e0d0b1e6826beb1b6e31ad6ac72ff1f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/956c1cdfdc962f59ac1ba2e86c3bf40e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/e23662a19ed1d6d434faedfd9b1082da.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/c5eaa416de5affb6aa936db15b97a7f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/77abc30ec23928cddebe4f666c2b9f3f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/e7269348f9811f96ac5ebad0f5fe5776.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/bbd607e1c8e7b39eae5a55cd708ea336.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/c64a4be89d34deebdb64629b57737557.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/021975a38e8bf53fd7627c2a90729da9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/0bd25242332eea32233516975f6bfc6f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/7e17172bbc3a649e37d90e9afa9c6fed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/d94817c9a949e69cd31e12ef5cb68f45.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622ZXTB926815/79c48db8ed50064b539e3a2a04777819.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -168,7 +202,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>405990</max_discount>
+			<max_discount>409990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z0TB926290</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
@@ -182,7 +216,38 @@
 ⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/77b427802ef3ac39fa54957fd134cd46.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/e8c1fbe8187b8d0029c31376085162d0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/dbce11ed0207542f993e18d373a8e563.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/d99a2beda38f4480c027a04d391a546c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/3cfc42a694f21dcb1cac931acc2f2ad5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/f270c48ab0fe1376968f565c900cd465.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/9174806f4981fc18b3a8ebcb42d95043.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/ee7501a91497c5c417ee605e0da6f291.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/8a24ff3003bca381deb5464ab598bfe6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/c646d09e65468afd174e27ffdcef6aeb.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/d95c5dfde9ef686703836f52d722ea30.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/a5aacef010805f92dc1e12c8f5ed9bff.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/b1d9156f5bfb94fe269b2de3d2aa9e63.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/15294b48ffec954df8b0416014242aff.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/09101589b1b304adccbd1dc847f6725b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/b71b958526fb1fee71f93e401c2a6ae0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/1a61c88ca612d02b89e7b814e73b4fbc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/40c571e8b3b1dbba958a46f7fa84178a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/9cc9d26bfbae9a9739dd8591501710e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/311f779793c8808c155e225395839b2f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/19a743d9f3afdf40a17a3c1fd9caff6d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/d98b73cd19c2668c9c86fe4676842106.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/00fe79693d0aaf47bb96f4f657a5005a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/da5d08a90c4fcc2221a7a2418df82e00.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/6c664936951c709b59e344531745a9b8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/ec32942388c6de391629c6f3768dd83f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/d553bab60987686b32ce76d4e7a0181f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/9cc9f2eb9859d994d507f6f58fbc72ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/26a4ae9b11a4d2c0225f4a619d300e0d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0TB926290/e36249981863212c7df21971dabdcac8.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -206,7 +271,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>405990</max_discount>
+			<max_discount>409990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622ZXTB925910</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
@@ -275,7 +340,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>506990</max_discount>
+			<max_discount>469990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D7TB311396</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
