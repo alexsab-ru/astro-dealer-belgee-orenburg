@@ -277,7 +277,7 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>531990</max_discount>
+			<max_discount>485990</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722D0TB311661</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
@@ -337,7 +337,40 @@
 Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 550 т.р.
 При оплате наличными цена нового автомобиля составит 3’200 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/526718f5551a1c344518bcd51b1ffd55.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/ec9a6aa1cd69f8145d57d2fe8c06935a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/5943e46ee6597794965a11dcc20702fd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/d6133d5d06b4ca18d58ef4c5a80940f7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/e3c99c4292f355dfc56b02601f06e44d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/a2491fdeec885c3a196dbe62a9a9246b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/b8b30634539b35aeb8a8c52ff6c8b6ba.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/5e41cdd522c85d94aaf01f7145e3fddd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/4b2432586b11844dfb83e70cce31d37f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/6f7a9ab4e2442066d53333fdc7dd0d0f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/4c7d8437862f23cb46198178d52e228f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/d72b52d9d62c8af1a24f60e537b340ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/7f3da423aa94c3c7750818179fa9b0db.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/c185e66213e80e421df18fb201d6ca8e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/f5ad60e91878c0491c82c3bdd86b18bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/588f2f1538360e2934ac71e5022f8cb2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/6971ac710cc8708486e8b9972bbb4ebc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/a948a84fc8c69181b32e9bcd3f8a97f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/73a657d8434765b5827f347025347e23.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/85652a4d1001e03121190cebdac0c90d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/6a6c0c0e181c506ccc2d8819ee2e18c1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/da2dbc6a18b187cb7968f059ca68ec29.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/fc55de4c82fd97c65929a7bcc98b468b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/1aff7024158842eba5d17e9b6df1a3ca.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/20ccdbf56fb186894fc2daa1704ab7c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/458e6fec1322bec49ef2585c793e52c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/075ee25e40e2fb441ee274a57c35b5ca.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/6f06808ce7b0f2df93f3ee4b5424496b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/ca202f2619ac0694f6f062233bc81317.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/5a7badd025c6bd942f3379b4def196ba.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/95ed4e1a97a840855119e395208251ff.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0TB311661/525a5dd514e8f00be209850e24119edd.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
