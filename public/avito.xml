@@ -171,7 +171,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2026</year>
 			<price>2679990</price>
 			<credit_discount>0</credit_discount>
@@ -197,44 +197,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</url></car>
-		<car>
-			<unique_id>b6b1292854b518f3b123d357e3753310</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Престиж</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>2679990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>429990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4TB930052</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
-
-Официальный дилер BELGEE - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X50+ Престиж
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ предоставляем услугу «Шинный отель» ⚡⚡</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url></car>
 		<car>
 			<unique_id>7339a0220e28f639304729c462a6ea6d</unique_id>
 			<mark_id>Belgee</mark_id>
@@ -312,14 +274,14 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url></car>
 		<car>
-			<unique_id>d1950fb933137d61c932df5c2be09cdb</unique_id>
+			<unique_id>b6b1292854b518f3b123d357e3753310</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
 			<complectation_name>Престиж</complectation_name>
 			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Серебряный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -332,7 +294,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>429990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6TB929582</vin>
+			<vin>Y4K8622Z4TB930052</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
@@ -344,46 +306,11 @@
 ⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
 ⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
 ⚡⚡ предоставляем услугу «Шинный отель» ⚡⚡</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/468d1a27ab86fbec6dea98bd1773d201.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/95165bd5188686ef056322edc1146c77.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/4debbab85c0ca0d919786a84a7d24cef.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/d3ef381e7006fc148b77e2f0189a5716.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/da69b3b98f18af6d4dba6febad1ef9fa.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/9ccb7e111ee9d487e7fc51cb2e8c07d9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/0c4132117d0cf97088830d412d46a352.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/dbc189a0401ca6b060ddab8798c472be.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/908dda109fe3119aae8e0a06b1c2716a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/c96ae106b69e075d102dba7faf69a5fb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/8424479056adbd3fd863dc5115748aa1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/d62d73ab31a6113a19e64d2600575f06.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/f2374c278c22634d621a190b78871d45.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/7d2dfdd9aba3f6e9a5452bbc6ddb5ef2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/d6a894646042bda46387eae05c4c3b2c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/4d85910be6d725192d8c4e196acc7821.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/3fc289a4d42a8ce38ca6a514845c9713.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/0ec852ec08ac5c3e40bbed52dfe403a8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/d4ec0562d417d877cf8bf1b3652d5226.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/3df542df69e617f46533b02a682b3c70.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/91998262d88919e05f14331343d1e342.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/f798027d161193bf07932d355535b73e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/ad9faef2dff3c6a2eceb1efaadafb12a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/b717d5f03c8a455cbfb33991181e9011.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/75ca82123d0e1199e9a9adb2515ac2f0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/ec775f862bbcc821012bfcd8f0ea52cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/63bf7872b51f876eac6798abf63d8733.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/ffa44570a205e65233214fd17fe1ec4d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/756aa59b2ec64eb2853856eb974550f9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/210c42ca77612e689b4e99fb9d431a12.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/468b609b47d1f1556026cb11a1b6bfbf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/07bca3e255f430a92be4b14f8803526f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/3e2c8ed27a2a0930475167fd871d4910.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB929582/294268c4b856711845ed071804b9ed60.jpeg</image>
-			</images>
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url></car>
+		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-silver-2026/</url></car>
 		<car>
 			<unique_id>c031e1d4510b534fc391efdbcd7519b0</unique_id>
 			<mark_id>Belgee</mark_id>
@@ -541,7 +468,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2026</year>
 			<price>2679990</price>
 			<credit_discount>0</credit_discount>
@@ -568,7 +495,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-red-2026/</url></car>
 		<car>
-			<unique_id>77ddd3d732490066bc1850747f940853</unique_id>
+			<unique_id>517e91fe41f70341a4775a778c1ea8e0</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
@@ -579,7 +506,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>5</run>
 			<year>2026</year>
 			<price>2509990</price>
 			<credit_discount>0</credit_discount>
@@ -588,7 +515,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>409990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622ZXTB930413</vin>
+			<vin>Y4K8622Z8TB930295</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
@@ -606,7 +533,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url></car>
 		<car>
-			<unique_id>517e91fe41f70341a4775a778c1ea8e0</unique_id>
+			<unique_id>77ddd3d732490066bc1850747f940853</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
@@ -626,7 +553,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>409990</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z8TB930295</vin>
+			<vin>Y4K8622ZXTB930413</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
 
 Официальный дилер BELGEE - Партнер-Авто Оренбург
