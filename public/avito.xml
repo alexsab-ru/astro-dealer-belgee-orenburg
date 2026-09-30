@@ -152,7 +152,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2026</year>
 			<price>2699990</price>
 			<credit_discount>0</credit_discount>
@@ -848,34 +848,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url></car>
-		<car>
-			<unique_id>001adc0abd708fc549601f3456e6513c</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Стиль</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2026</year>
-			<price>2509990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>409990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5TB942159</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-blue-2026/</url></car>
 		<car>
 			<unique_id>61d95497b687480de98c0e2983df1982</unique_id>
 			<mark_id>Belgee</mark_id>
