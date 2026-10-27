@@ -99,6 +99,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/22/full.webp?v=7ec70abee162</image>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/23/full.webp?v=c8da393f0608</image>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/24/full.webp?v=3bc7d96f55e1</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/25/full.webp?v=6003c52fdc55</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/26/full.webp?v=05341b7680e0</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/27/full.webp?v=2ec22725ddd1</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/28/full.webp?v=e23f3935f157</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/29/full.webp?v=adbef6730c11</image>
       </images>
     </car>
     <car>
@@ -304,6 +309,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/22/full.webp?v=3930a5877eaa</image>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/23/full.webp?v=f10728c19bb5</image>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/24/full.webp?v=780858edb8a2</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/25/full.webp?v=0efebcb64480</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/26/full.webp?v=b23f9643a5dd</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/27/full.webp?v=4993c2957ae0</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/28/full.webp?v=5ecb3d55c4e1</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/29/full.webp?v=54d04da9356d</image>
       </images>
     </car>
     <car>
@@ -499,6 +509,11 @@
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/22/full.webp?v=b79ab6b9ddf7</image>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/23/full.webp?v=5fc5e69c9d66</image>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/24/full.webp?v=a6cc864f99ed</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/25/full.webp?v=45a479552424</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/26/full.webp?v=a169936207f8</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/27/full.webp?v=4497021af43a</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/28/full.webp?v=8451852e9f3c</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB945928/29/full.webp?v=66f530485f93</image>
       </images>
     </car>
     <car>
@@ -616,7 +631,7 @@
       <color>синий</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>4</run>
+      <run>5</run>
       <description>Автомобиль Belgee X70, I Рестайлинг, Престиж+, 1.5 AMT (150 л.с.) 4WD, 2026 г., синий</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/0/full.webp?v=6b0222dc0a1f</image>
