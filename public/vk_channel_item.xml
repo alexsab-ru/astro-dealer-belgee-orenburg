@@ -26,30 +26,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8622Z1TB943115</id>
-    <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Стиль 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z1TB943115/0/full.webp?v=dc35ce2b465b</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2100000 RUB</sale_price>
-    <min_price>2100000 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>СЕРЫЙ</exterior_color>
-    <mileage>
-      <value>5</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z1TB943115</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8622Z3TB942693</id>
     <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</link>
     <brand>Belgee</brand>
@@ -170,30 +146,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8622Z8TB934640</id>
-    <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Стиль 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB934640/0/full.webp?v=757220f046bc</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2100000 RUB</sale_price>
-    <min_price>2100000 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>5</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z8TB934640</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8622Z8TB937053</id>
     <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</link>
     <brand>Belgee</brand>
@@ -238,30 +190,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>Y4K8622Z8TB945928</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>Y4K8622Z9TB934825</id>
-    <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Стиль 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-orenburg.ru/new/Y4K8622Z9TB934825/0/full.webp?v=31e382777069</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2100000 RUB</sale_price>
-    <min_price>2100000 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>СЕРЫЙ</exterior_color>
-    <mileage>
-      <value>6</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z9TB934825</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
