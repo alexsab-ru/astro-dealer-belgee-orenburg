@@ -9,10 +9,10 @@
       <year>2026</year>
       <vin>Y4K8622Z0TB941386</vin>
       <price>2799990</price>
-      <sale_price>2699990</sale_price>
+      <sale_price>2799990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>100000</max_benefit>
+      <max_benefit>0</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -64,10 +64,10 @@
       <year>2026</year>
       <vin>Y4K8622Z3TB942693</vin>
       <price>2799990</price>
-      <sale_price>2699990</sale_price>
+      <sale_price>2799990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>100000</max_benefit>
+      <max_benefit>0</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -119,10 +119,10 @@
       <year>2026</year>
       <vin>Y4K8622Z5TB942713</vin>
       <price>2799990</price>
-      <sale_price>2699990</sale_price>
+      <sale_price>2799990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>100000</max_benefit>
+      <max_benefit>0</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -174,10 +174,10 @@
       <year>2026</year>
       <vin>Y4K8622Z7TB944169</vin>
       <price>2799990</price>
-      <sale_price>2699990</sale_price>
+      <sale_price>2799990</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>100000</max_benefit>
+      <max_benefit>0</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
