@@ -257,70 +257,6 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url></car>
 		<car>
-			<unique_id>e0f7f4cd64ff99bc4303db2ed3411c20</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Престиж</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>2699990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>429990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8TB945928</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/b15ce1865ac6982d7b8c73ce7f86f7b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/84332173d083447bfdd6efbf44a656d6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/78b1b2e2f23b157d59716bc7aa3a19fd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/047272e6ef3b0640d389420ecdf74f8e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/d898244ba9f3175577da815e94b93c0c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/d37d2c495f965e7955091173df39dfe4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/d4b58f17121084e92f71e0cbfa263952.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/5114ae996517288b9835f4dd9db64ccb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/5ef2083b62dd56d9fa4c8378f49048d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/6e5cf9410696cb1cd73fc31ac62a3cf3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/bf133c3975d35ecae96b8bd3b7885a13.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/2a9f985c4da24e9514d7ad9e8db5f159.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/beeb98f790b34fab5d5269ff62285768.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/e5c1a882aa5d91fb6d73f29e8f8ae0c5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/8471bd1fdbe59375907505388a714381.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/0487156620536ed8e552dbe41a963cee.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/f63a30ab95a0d8b2d1a03c523d30f415.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/b70e76f4ca3850c6df3a0062a9f0c735.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/eea836aa2098b11220b048d046e7e49d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/5024da976780a6fb30d13782bc797d5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/23c847c9be47cd91cba639a03c848d49.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/a085651e4a88534cdc78d4fd35343a96.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/ed250fc8e55919a6be7471efbd6f974a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/e320285f2b6647c40f1503bd09ce4718.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/b12f119cc3f486cc346bb5ade71b466e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/7da9123c2a68614bff7df028a983323a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/bd43d38ff817db408108feb7eb5239e4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/f4f178e90c4a83b84c08185ace595364.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/b6514c40a945c9b002846f52f579d3d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/a166b0a8b731e69e27322e2536d56527.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/fb190d2f1d1bd2df8939ae432a1a15bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/6a3226bd51e8dbc57bd7d8be6853861c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/08ce5b0613a63956206571443d849024.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/d54be39635b8a105c43820de3d0563f3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8TB945928/97048b2a60cba4d0a05c6b49cbb56be3.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</url></car>
-		<car>
 			<unique_id>d5b85f2cf39f547f9d6c87c38eace613</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
@@ -379,34 +315,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url></car>
-		<car>
-			<unique_id>de44b90370142784aa3e66162a728baa</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X70, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-			<complectation_name>Престиж+</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>3115990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>485990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722D5TB318542</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-plus-basalt-gray-2026/</url></car>
 		<car>
 			<unique_id>a8515becf23268651b99cb79d788473c</unique_id>
 			<mark_id>Belgee</mark_id>
