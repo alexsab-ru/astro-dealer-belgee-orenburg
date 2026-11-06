@@ -37,6 +37,8 @@
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z0TB941386/15/full.webp?v=978ed70a6d7f</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z0TB941386/16/full.webp?v=f1e76443998f</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z0TB941386/17/full.webp?v=35e0a0eaa0d0</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z0TB941386/18/full.webp?v=976f76854549</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z0TB941386/19/full.webp?v=50944eab30f7</image>
       </images>
     </car>
     <car>
@@ -75,44 +77,8 @@
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z3TB942693/15/full.webp?v=e6dfe490095d</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z3TB942693/16/full.webp?v=806d3455dc38</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z3TB942693/17/full.webp?v=fd233471b1db</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Y4K8622Z5TB942713</unique_id>
-      <url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z5TB942713</vin>
-      <price>2799990</price>
-      <sale_price>2699990</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>100000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>8</run>
-      <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/0/full.webp?v=dee4b14e6b6a</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/1/full.webp?v=3d5374fbaef2</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/2/full.webp?v=6d29ed37f103</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/3/full.webp?v=28e800512e4d</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/4/full.webp?v=27389a1dc660</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/5/full.webp?v=f311320c3b23</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/6/full.webp?v=d4c8ff40ae2a</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/7/full.webp?v=ea3f069eb995</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/8/full.webp?v=4fff58553470</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/9/full.webp?v=2ace33ad7ead</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/10/full.webp?v=90b265d66c92</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/11/full.webp?v=b8a55a4b980a</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/12/full.webp?v=4e857c4a71e0</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/13/full.webp?v=d5ebbfb0670f</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/14/full.webp?v=400751e1c48c</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/15/full.webp?v=010727a96dcd</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/16/full.webp?v=fbc686b063b6</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z5TB942713/17/full.webp?v=7e617b6bb8c8</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z3TB942693/18/full.webp?v=8e50c09abb99</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z3TB942693/19/full.webp?v=8c385dabe5cd</image>
       </images>
     </car>
     <car>
@@ -151,6 +117,8 @@
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/15/full.webp?v=d9941e9b9c10</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/16/full.webp?v=a1d090c93064</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/17/full.webp?v=28b913df8b66</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/18/full.webp?v=e3c409bbc581</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/19/full.webp?v=2917d76c98aa</image>
       </images>
     </car>
     <car>
@@ -189,36 +157,8 @@
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/15/full.webp?v=1c00fcc8ef50</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/16/full.webp?v=3669d96912c4</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/17/full.webp?v=b9146548a031</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Y4K8722D1TB318215</unique_id>
-      <url>https://belgee-orenburg.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-plus-blue-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X70, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>Y4K8722D1TB318215</vin>
-      <price>3115990</price>
-      <sale_price>2630000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>485990</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>5</run>
-      <description>Автомобиль Belgee X70, I Рестайлинг, Престиж+, 1.5 AMT (150 л.с.) 4WD, 2026 г., синий</description>
-      <images>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/0/full.webp?v=6b0222dc0a1f</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/1/full.webp?v=d07752641cdb</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/2/full.webp?v=75a5cec9e555</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/3/full.webp?v=6e0cdab3ea2f</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/4/full.webp?v=e579d31b451c</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/5/full.webp?v=c7d80d186b1d</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/6/full.webp?v=40dd1320f451</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/7/full.webp?v=83219d295e55</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/8/full.webp?v=01557d819225</image>
-        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D1TB318215/9/full.webp?v=6e473576e853</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/18/full.webp?v=464057b2c19c</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/19/full.webp?v=6bc57da5344e</image>
       </images>
     </car>
   </cars>
