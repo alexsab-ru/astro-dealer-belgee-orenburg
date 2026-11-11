@@ -126,7 +126,7 @@
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>7</run>
+      <run>8</run>
       <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z7TB944169/0/full.webp?v=ee2392786211</image>
@@ -214,6 +214,28 @@
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/27/full.webp?v=f54fb268d587</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/28/full.webp?v=d9c4eb162a63</image>
         <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z8TB931608/29/full.webp?v=032bf4f9b014</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D5TB320534</unique_id>
+      <url>https://belgee-orenburg.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-basalt-gray-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D5TB320534</vin>
+      <price>2839990</price>
+      <sale_price>2380000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>459990</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>6</run>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D5TB320534/0/full.webp?v=41ae4112022c</image>
+        <image>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8722D5TB320534/1/full.webp?v=c830ce8d53c4</image>
       </images>
     </car>
   </cars>
