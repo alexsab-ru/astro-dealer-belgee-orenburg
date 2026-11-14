@@ -2,30 +2,6 @@
 <channel>
   <title>Автомобили</title>
   <item>
-    <id>Y4K8622Z3TB942693</id>
-    <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Оникс 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-orenburg.ru/new/Y4K8622Z3TB942693/0/full.webp?v=bbaac16271ed</image_link>
-    <price>2799990 RUB</price>
-    <sale_price>2699990 RUB</sale_price>
-    <min_price>2699990 RUB</min_price>
-    <max_price>2799990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>ЧЕРНЫЙ</exterior_color>
-    <mileage>
-      <value>5</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z3TB942693</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8622Z7TB944169</id>
     <link>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</link>
     <brand>Belgee</brand>
@@ -41,7 +17,7 @@
     <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г.</description>
     <exterior_color>ЧЕРНЫЙ</exterior_color>
     <mileage>
-      <value>8</value>
+      <value>9</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>

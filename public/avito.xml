@@ -1,70 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>084e3c7174c79e0b45bce7eee7d2ce5e</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Оникс</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>2799990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z3TB942693</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/3f777a9325917c9635ad124992b341b5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/c8cac608717fea23be23185025fa2139.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/c4d03d216c8564f2a354c2c09a6a528d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/cacafadbc4d3e4a09f552b70a18f5f24.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/af27c3ca9b4976b24b213cabfcfbb4d6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/0619372c92174e8065d1b0686aad6515.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/dfa2cde399683c129b5356c1a05a0194.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/84acaf2a5682073b2ad64032df624a98.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/79ead4db734c750f11c9fa4ea79cd27a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/75ab43c8e071c2bd8cd3543e2812afca.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/5f9e5f9e095a235c21ce83cfe8ef69d3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/f739fcc9f5d0042bfeb45d6b3fbeab69.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/163e7e5d3205e93eb0dfdc7c67cb35fe.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/0fbda0e0525723c642bc8cdc609f1834.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/f4f90db9859b1e88e28b71c6e29b7029.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/d05b1111357f98c21f39bdbc12cd4e8b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/1524cf2a5b5efa97b2693cc1a3022677.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/d878734cead0d0a7e61da1b63bdbc76f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/e593f303d7c86c8d699dc6f60b09cdf3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/91b7925b44874bee2ffa7ddf02d3a86d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/9aa5c6e64c253fe0069bfbde9d58d3e7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/830968a5c18951d6aa4260c15cecd79f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/b717c2d0ce9a82c3490f7cd2ee2fd388.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/da3ae84b01e1c376942b38a53f3dbdcf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/65718ab556ae28ff67a4fd9cf8be43ae.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/0202d6ddea23b40f8384560b2ffcc00f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/cc67ba062bc16c44d1b8d5c5c4ae68cd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/376b1e0a0181bc9e1ea86e78431b54a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/944a06ab83a7ab4daac8b8f972deea4d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/224aa636998dd387ce440405a5e8aaca.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/7981f837bf927ceb3cc78de14ee76759.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/3babe81fd4e1a2c83fd51c9eec7b3037.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/57a255703306ab40954661396c3b1867.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/c50572249ff78b30f8a1e241e440e84e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z3TB942693/fab12cd5d8fc2114522d0f2e07594bb6.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url></car>
-		<car>
 			<unique_id>b43a40ff1e170d38e7f4dca720c79f5e</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
@@ -76,7 +12,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2026</year>
 			<price>2799990</price>
 			<credit_discount>0</credit_discount>
